@@ -44,6 +44,7 @@ body {
  */
 .object {
   border: 2px solid #00ffba;
+  border: 2px solid #7175da;
   position: absolute;
 }
 
@@ -1240,7 +1241,7 @@ body {
 .water {
   -webkit-animation: rising 1.5s 4s both;
           animation: rising 1.5s 4s both;
-  background-color: #00ffba;
+  background-color: #7175da;
   height: 100%;
   left: 0;
   position: absolute;
@@ -1638,7 +1639,7 @@ body {
  * start: 5.3sec, dur: ~1sec
  */
 .splash {
-  background-color: #00ffba;
+  background-color: #7175da;
   border-radius: 50%;
   position: absolute;
 }
@@ -1650,7 +1651,7 @@ body {
 }
 
 #trampoline {
-  fill: #00ffba;
+  fill: #7175da;
 }
 
 .splash--1 {
